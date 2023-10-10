@@ -1,0 +1,33 @@
+header {
+	display: block;
+	width: 100%;
+}
+.hero-image {
+	background-image: url("img/Banner.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 500px;
+}
+
+ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+li {
+	float: left;
+	font-size: 20px;
+	margin:5px;
+}
+nav {
+	height: 38px;
+	background-color: #3f4d43;
+}
+li a {
+	display: block;
+	color: white;
+	text-decoration: none;
+}
